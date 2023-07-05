@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  margin-top: 30px;
+}
+
+.main {
+  margin-top: 20px;
+}
+
+.search-container {
+  margin-bottom: 10px;
+}
+
+.card {
+  width: 300px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.header {
+  margin-bottom: 5px;
+}
+
+.ui.buttons {
+  margin-top: 10px;
+}
+
+.edit-form {
+  margin-top: 20px;
+}
