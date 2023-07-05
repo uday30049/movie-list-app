@@ -1,6 +1,6 @@
 Execute the following commands:
 
-1.git clone https://github.com/uday30049/movie-app.git
+1.git clone https://github.com/uday30049/movie-list-app.git
 
 2.npm start
 
