@@ -8,15 +8,15 @@ Screenshots:
 
 Initial page:
 
-![image](https://github.com/uday30049/movie-app/assets/112474023/665caa76-fdc5-410a-93bc-22718972e9b1)
+![image](https://github.com/uday30049/movie-list-app/assets/112474023/3511bd31-4ee0-407b-84ca-affa4d04f78f)
 
 After adding 3 movies:
 
-![image](https://github.com/uday30049/movie-app/assets/112474023/20bbe946-23b1-4fdb-8246-4c476c71d4ff)
+![image](https://github.com/uday30049/movie-list-app/assets/112474023/47e9c60e-6e37-4738-8dac-ec2014c3fac1)
 
 After searching a movie:
 
-![image](https://github.com/uday30049/movie-app/assets/112474023/a8ca09bd-a6a5-4a79-b59c-a976e6c0b163)
+![image](https://github.com/uday30049/movie-list-app/assets/112474023/e7ef2d96-bcef-41f3-a8d5-97d0734368d9)
 
 THe movie details:
 
@@ -24,8 +24,9 @@ THe movie details:
 
 Editing movie details:
 
-![image](https://github.com/uday30049/movie-app/assets/112474023/5a109aa5-2506-449d-a881-720049cb90e7)
+![image](https://github.com/uday30049/movie-list-app/assets/112474023/085ffafc-906a-4e40-b49b-b52dcc21b0f3)
 
 After deleting a movie:
 
-![image](https://github.com/uday30049/movie-app/assets/112474023/3711b631-cee3-445e-93c6-8218b2cc87dc)
+![image](https://github.com/uday30049/movie-list-app/assets/112474023/8305aaed-6bff-4572-91bc-b15e34dd0aa3)
+
