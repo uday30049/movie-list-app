@@ -24,7 +24,7 @@ THe movie details:
 
 Editing movie details:
 
-![image](https://github.com/uday30049/movie-list-app/assets/112474023/085ffafc-906a-4e40-b49b-b52dcc21b0f3)
+![image](https://github.com/uday30049/movie-list-app/assets/112474023/6a5e73ed-4e8c-45f7-b166-28130411385e)
 
 After deleting a movie:
 
