@@ -38,7 +38,7 @@ const AddMovie = (props) => {
   };
 
   return (
-    <div className="ui main">
+    <div className="ui main"><br/><br/>
       <h2>Add Movie</h2>
       <form className="ui form" onSubmit={handleSubmit}>
         <div className="field">

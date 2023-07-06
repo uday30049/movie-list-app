@@ -55,7 +55,7 @@ const EditMovie = (props) => {
   };
 
   return (
-    <div className="edit-form">
+    <div className="edit-form"><br/><br/>
       <h2>Edit Movie</h2>
       <form className="ui form" onSubmit={handleSubmit}>
         <div className="field">
