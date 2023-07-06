@@ -9,7 +9,7 @@ const MovieCard = (props) => {
       <div className="content">
         <Link to={`/movie/${id}`}>
           <div className="header"><h3>{title}</h3></div>
-          <div>{genre}</div>
+          
         </Link>
         <i
           className="trash icon"
